@@ -1,0 +1,27 @@
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\bin\Debug\GuideOfBuyer.exe.config
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\bin\Debug\GuideOfBuyer.exe
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\bin\Debug\GuideOfBuyer.pdb
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.DirectoriesEditorForm.resources
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.DirectoryItemEditorForm.resources
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.FirmEditorForm.resources
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.MainForm.resources
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.Properties.Resources.resources
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.csproj.GenerateResource.Cache
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.exe
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.pdb
+D:\!!!!\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.csprojResolveAssemblyReference.cache
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\bin\Debug\GuideOfBuyer.exe.config
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.exe
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.pdb
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\bin\Debug\GuideOfBuyer.exe
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\bin\Debug\GuideOfBuyer.pdb
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.csprojResolveAssemblyReference.cache
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.DirectoriesEditorForm.resources
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.DirectoryItemEditorForm.resources
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.FirmEditorForm.resources
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.MainForm.resources
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.Properties.Resources.resources
+C:\Users\super\Desktop\ХНУРЭ\ОПр говницо\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.csproj.GenerateResource.Cache
+G:\ХНУРЭ\Курсач\GuideOfBuyer\GuideOfBuyer\bin\Debug\GuideOfBuyer.exe.config
+G:\ХНУРЭ\Курсач\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.exe
+G:\ХНУРЭ\Курсач\GuideOfBuyer\GuideOfBuyer\obj\Debug\GuideOfBuyer.pdb
